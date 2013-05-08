@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Simple shell script to run sbt from install folder
+
+cd ~/apps/sbt/bin
+./sbt
