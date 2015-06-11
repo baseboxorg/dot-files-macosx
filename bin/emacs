@@ -2,4 +2,4 @@
 
 ## Run Emacs 24 from install of http://emacsformacosx.com
 
-exec /Applications/Emacs.app/Contents/MacOS/Emacs $*
+exec /Applications/Emacs.app/Contents/MacOS/Emacs "$@"
